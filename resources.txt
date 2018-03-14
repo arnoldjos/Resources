@@ -1,0 +1,16 @@
+
+----- WEBSITES -----
+caniuse.com - to know if the css property is supported by browsers
+jsdeliver.com - free javascript libraries
+dimsemenov.com/plugins/magnific-popup/ - library for dialog scripts
+iamceege.github.io/tooltipster/#demos - library for hover tooltips
+maplacejs.com - embed google maps into your website with markers and control menus
+cosmos.layervault.com/typer-js.html - type words
+thepetedesign.com/demos/onepage_scroll_demo.html - creates multiple section and when scrolling fills the viewport with the section
+
+
+
+----- JAVASCRIPT LIBRARIES -----
+respond.js - media queries for IE 6-8
+html5shiv - enable use of HTML5 sectioning elements in legacy Internet Explorer
+selectivizr - emulates css3 pseudo-classes and attribute selectors in Internet Explorer 6-8 
