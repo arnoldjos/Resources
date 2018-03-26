@@ -10,6 +10,13 @@ thepetedesign.com/demos/onepage_scroll_demo.html - creates multiple section and 
 imakewebthings.com/waypoints/ - trigger a function when you scroll to an element
 css-tricks.com/snippets/jquery/smooth-scrolling/ - scroll to section when clicking on an anchor
 daneden.github.io/animate.css/ - css animations
+realfavicongenerator.net - generate favicon pictures and html code
+optimizilla.com - compresses images online for website optimization
+minifycss.com/css-compressor/ - minifies css
+validator.w3.org - validate your html
+hpneo.github.io/gmaps/ - embed google maps in website
+blog.garstasio.com/you-dont-need-jquery/dom-manipulation/ - Useful javascript queries
+
 
 
 
