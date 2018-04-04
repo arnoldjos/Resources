@@ -17,6 +17,7 @@ validator.w3.org - validate your html
 hpneo.github.io/gmaps/ - embed google maps in website
 blog.garstasio.com/you-dont-need-jquery/dom-manipulation/ - Useful javascript queries
 https://www.pexels.com/ - free hd images 
+https://cdn.ckeditor.com/ - add editor for textarea
 
 
 
